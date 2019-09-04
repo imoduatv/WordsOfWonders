@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "GameSceneAtlas"
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 793ea67fe2d24578b55035ec9c6c26fd, type: 3}
+    - {fileID: 21300000, guid: a20edd446ee745ccb8820b96aa9c3af1, type: 3}
+    - {fileID: 21300000, guid: d13084a0422042fc925a1c5f0257d639, type: 3}
+    - {fileID: 21300000, guid: de89a8a9afeb443b84b6cf6c9a174fb6, type: 3}
+    - {fileID: 21300000, guid: 9f5f0b6a28af40fca972ebe7c57f721f, type: 3}
+    - {fileID: 21300000, guid: 7547ba360b8e43ef8d2fdb9ee441d96f, type: 3}
+    - {fileID: 21300000, guid: e17b086ef19c41e79aa31c0e92600fe0, type: 3}
+    - {fileID: 21300000, guid: 08519fbc02244b2fb3d4673b18f3ac18, type: 3}
+    - {fileID: 21300000, guid: 635c74cfb5b9439aa589d3eb35155f53, type: 3}
+    - {fileID: 21300000, guid: a307b12148ad45bc9a8af3e95230fbb4, type: 3}
+    - {fileID: 21300000, guid: bb69aff65d1c40a398ee392ca43250e0, type: 3}
+    - {fileID: 21300000, guid: 8c4ae9e99d3b488cb2d19a7ebf8aa261, type: 3}
+    - {fileID: 21300000, guid: dc700e376cf3433c8f31c48662810b4b, type: 3}
+    - {fileID: 21300000, guid: 1176d937004a4182b311fe9a52b78465, type: 3}
+    - {fileID: 21300000, guid: cecf87c847c74567a5a72a8ae6aa21d9, type: 3}
+    - {fileID: 21300000, guid: ba6ef45ebacf4689bed216d8c8de3d54, type: 3}
+    - {fileID: 21300000, guid: 827559223045435bbf324ebdffcafbb1, type: 3}
+    - {fileID: 21300000, guid: 554d72071b2348bab830bf29f59d8551, type: 3}
+    - {fileID: 21300000, guid: 185003f9208f4a8a8f16e5eaa28a398a, type: 3}
+    - {fileID: 21300000, guid: b45ceec7602d4995b10a9bfbb56f7e87, type: 3}
+    - {fileID: 21300000, guid: 7de2e44f94024ca1ae6e7e303c5c788e, type: 3}
+    - {fileID: 21300000, guid: 7819340060194c51904a489a9cb7fcdc, type: 3}
+    - {fileID: 21300000, guid: c11954ace3f2427581ca6180efd08a1e, type: 3}
+    - {fileID: 21300000, guid: a386cb8bc4bd43948ef29dcb93438fc2, type: 3}
+    - {fileID: 21300000, guid: 4b419f347626415bbe8fb3306eb4f75c, type: 3}
+    - {fileID: 21300000, guid: 415204e436e84a9b8cf50f3368eff1eb, type: 3}
+    - {fileID: 21300000, guid: 1f0b8bb665804292b6437c5f5968a637, type: 3}
+    - {fileID: 21300000, guid: 6faa6223762c4bf8bf0bebb92a221f4e, type: 3}
+    - {fileID: 21300000, guid: 10db9407e5664638866c852f02642da5, type: 3}
+    - {fileID: 21300000, guid: 7140006d4ef6465da7998be61527a987, type: 3}
+    - {fileID: 21300000, guid: 79d2784757c5415f9d539169bc3162b5, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_Tag: "GameSceneAtlas"
+  m_IsVariant: 0

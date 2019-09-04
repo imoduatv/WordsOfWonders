@@ -1,0 +1,144 @@
+Resolve4: UnityEngine
+Resolve4: UnityEngine.CoreModule
+Resolve4: mscorlib
+Resolve4: UnityEngine.TextRenderingModule
+[129: PlayerSettings] is_break_read2: Array \m_ColorGamuts\Array [data, item_size:4] bytes_size=79048 > buffer.len-pos=195
+129: PlayerSettings pathID: 1
+
+Ba.Warning: pos: 492 != len: 687 for: {fileID: 0 (globalgamemanagers), pathID: 1, m_Name: , type: PlayerSettings}
+[141: BuildSettings] string.size 400867859 > 10_000_000 \m_Version, buf.Position=136
+141: BuildSettings pathID: 11
+
+Ba.Warning: pos: 136 != len: 14668 for: {fileID: 0 (globalgamemanagers), pathID: 11, m_Name: , type: BuildSettings}
+[19: Physics2DSettings] is_break_read2: Array \m_LayerCollisionMatrix\Array [data, item_size:4] bytes_size=1028 > buffer.len-pos=132
+19: Physics2DSettings pathID: 17
+
+Ba.Warning: pos: 80 != len: 212 for: {fileID: 0 (globalgamemanagers), pathID: 17, m_Name: , type: Physics2DSettings}
+Resolve4: UnityEngine.UI
+Resolve4: UnityEngine.AnimationModule
+Resolve4: UnityEngine.AudioModule
+Resolve4: UnityEngine.UIModule
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+img read old
+1 GameObject - find for 2017.4.19f1
+img read old
+img read old
+img read old
+Missed: for UnityEngine.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.dll/UnityEngine/GUISkin
+Make Script DB
+Make Scripts
+Code decompile: Analytics.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Analytics.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Analytics.dll- prepare classes, count: 23
+Analytics.dll - decompiled
+Code decompile: ArabicSupport.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: ArabicSupport.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+ArabicSupport.dll- prepare classes, count: 8
+ArabicSupport.dll - decompiled
+Code decompile: Assembly-CSharp-firstpass.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Assembly-CSharp-firstpass.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Assembly-CSharp-firstpass.dll- prepare classes, count: 34
+Assembly-CSharp-firstpass.dll - decompiled
+Code decompile: Assembly-CSharp.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Assembly-CSharp.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Assembly-CSharp.dll- prepare classes, count: 213
+Assembly-CSharp.dll - decompiled
+Code decompile: Google.MiniJson.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Google.MiniJson.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Google.MiniJson.dll- prepare classes, count: 2
+Google.MiniJson.dll - decompiled
+Code decompile: Ionic.Zip.Unity.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Ionic.Zip.Unity.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Ionic.Zip.Unity.dll- prepare classes, count: 95
+Ionic.Zip.Unity.dll - decompiled
+Code decompile: LitJson.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: LitJson.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+LitJson.dll- prepare classes, count: 22
+LitJson.dll - decompiled
+Code decompile: PresageLib.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: PresageLib.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+PresageLib.dll- prepare classes, count: 5
+PresageLib.dll - decompiled
+Code decompile: UnityEngine.Analytics.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: UnityEngine.Analytics.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+UnityEngine.Analytics.dll- prepare classes, count: 20
+UnityEngine.Analytics.dll - decompiled
+Code decompile: UnityEngine.ParticlesLegacyModule.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: UnityEngine.ParticlesLegacyModule.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+UnityEngine.ParticlesLegacyModule.dll- prepare classes, count: 10
+UnityEngine.ParticlesLegacyModule.dll - decompiled
+Code decompile: UnityEngine.StandardEvents.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: UnityEngine.StandardEvents.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+UnityEngine.StandardEvents.dll- prepare classes, count: 52
+UnityEngine.StandardEvents.dll - decompiled
+Code decompile: UnityEngine.WebModule.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: UnityEngine.WebModule.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+UnityEngine.WebModule.dll- prepare classes, count: 7
+UnityEngine.WebModule.dll - decompiled
+Code decompile: Validator.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Validator.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Validator.dll- prepare classes, count: 2
+Validator.dll - decompiled
+Make plugins
+Check for DeObfuscate: Analytics.dll
+Check for DeObfuscate: ArabicSupport.dll
+Check for DeObfuscate: Assembly-CSharp-firstpass.dll
+Convert UnityAssembly To Plugin: from Assembly-CSharp-firstpass to PluginAs-CSharp-firstpass
+Check for DeObfuscate: Assembly-CSharp.dll
+Convert UnityAssembly To Plugin: from Assembly-CSharp to PluginAs-CSharp
+Check for DeObfuscate: Google.MiniJson.dll
+Check for DeObfuscate: Ionic.Zip.Unity.dll
+Check for DeObfuscate: LitJson.dll
+Check for DeObfuscate: PresageLib.dll
+Check for DeObfuscate: UnityEngine.Analytics.dll
+Check for DeObfuscate: UnityEngine.ParticlesLegacyModule.dll
+Check for DeObfuscate: UnityEngine.StandardEvents.dll
+Check for DeObfuscate: UnityEngine.WebModule.dll
+Check for DeObfuscate: Validator.dll
+Make binStreamingAssets
+Write scrip db
+MakeUnityProject - end, dir: E:\Unity Exported\Words of Wonders
